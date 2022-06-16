@@ -1,0 +1,20 @@
+.app{
+    height: 100vh;
+
+    .sections{
+        width: 100%;
+        height: calc(100vh - 70px);
+        background-color:#2b2b2b;
+        position: relative;
+        top: 70px;
+        &::-webkit-scrollbar{
+            display: none;
+        }
+
+
+        > *{
+           width: auto;
+           height: auto;
+        }
+    }
+}
