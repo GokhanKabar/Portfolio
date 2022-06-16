@@ -5,7 +5,7 @@ import work from "../assets/work.png"
   
     return (
       <div className="portfolio" id="portfolio">
-        <h1>Portfolio</h1>
+        <h1>Réalisations</h1>
         <div className="container">
           <div className="card">
             <div className="face face1">
