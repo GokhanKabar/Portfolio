@@ -1,5 +1,5 @@
 import "./portfolio.css";
-import work from "../assets/work.png"
+import work from "./work.png"
   
   export default function Portfolio() {
   

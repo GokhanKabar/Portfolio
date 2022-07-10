@@ -1,7 +1,7 @@
 import "./intro.scss";
 import { init } from "ityped";
 import { useEffect, useRef } from "react";
-import logo from "../assets/moi.png"
+import logo from "./moi.png"
 
 export default function Intro() {
 
